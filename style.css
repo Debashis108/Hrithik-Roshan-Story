@@ -1,8 +1,10 @@
 *{
     background-color: rgb(204, 170, 170);
     margin: 0;
-    padding: 0;
-    border: 5px solid rgb(219, 76, 76);
-
+    padding: 0; 
+    /* border: 5px solid rgb(219, 76, 76); */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
 
 }
